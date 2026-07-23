@@ -3,9 +3,9 @@
     <img src="https://capsule-render.vercel.app/api?type=pulse&height=200&color=7FA8FF&text=MINJU%20KIM&fontColor=1E2A3A&fontSize=50&animation=twinkling&desc=SOFTWARE%20DEVELOPER&fontAlign=50&fontAlignY=48&descAlign=50&descAlignY=65&descSize=16"/>
   </a>
 
-  <p align="center">
+  <h3 align="center">
     다양한 데이터를 <b>기술로 연결</b>해 <b>더 나은 해결책</b>을 찾아가는 개발자 김민주입니다.
-  </p>
+  </h3>
 </div>
 
 # 프로필
