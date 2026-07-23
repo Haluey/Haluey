@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="60"
+     viewBox="0 0 900 60">
+
+  <style>
+    .intro {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                   "Noto Sans KR", Arial, sans-serif;
+      font-size: 20px;
+      font-weight: 500;
+      fill: #36506F;
+    }
+
+    .strong {
+      font-weight: 700;
+      fill: #5B8DEF;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .intro {
+        fill: #C9D8F0;
+      }
+
+      .strong {
+        fill: #8FB3FF;
+      }
+    }
+  </style>
+
+  <text
+    x="450"
+    y="37"
+    text-anchor="middle"
+    class="intro">
+    다양한 데이터를
+    <tspan class="strong"> 기술로 연결</tspan>해
+    <tspan class="strong"> 더 나은 해결책</tspan>을 찾아가는 개발자 김민주입니다.
+  </text>
+</svg>
