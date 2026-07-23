@@ -1,13 +1,13 @@
 <p align='center'>
   <a href="https://github.com/Haluey">
-    <img src="https://capsule-render.vercel.app/api?type=pulse&height=200&color=7FA8FF&text=MINJU%20KIM&fontColor=1E2A3A&fontSize=50&animation=twinkling&desc=SOFTWARE%20DEVELOPER&fontAlign=50&fontAlignY=50&descAlign=50&descAlignY=65&descSize=15"/>
+    <img src="https://capsule-render.vercel.app/api?type=pulse&height=230&color=7FA8FF&text=MINJU%20KIM&fontColor=1E2A3A&fontSize=50&animation=twinkling&desc=SOFTWARE%20DEVELOPER&fontAlign=50&fontAlignY=50&descAlign=50&descAlignY=65&descSize=15"/>
   </a>
 </p>
 
-<p align="center">
+<h3 align="center">
   다양한 환경에서 발생하는 데이터를 소프트웨어로 연결하며<br>
   그 과정에서 더 나은 해결 방식을 찾아가는 개발자입니다.
-</p>
+</h3>
 
 # 프로필
 
