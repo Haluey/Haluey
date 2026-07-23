@@ -9,12 +9,16 @@
   />
 </div>
 
-# 프로필
+<h2>👤 Profile</h2>
 
-- 이름 : 김민주(Minju Kim)
-- 이메일 : cheong7394wol@gmail.com
-- 전공 : 컴퓨터공학
-- 전문분야 : C#, Python, Raspberry Pi
+<p>
+  <strong>김민주</strong> <sub>MINJU KIM</sub><br><br>
+
+  🎓 컴퓨터공학 전공<br>
+  🎯 IoT·임베디드 SW 및 스마트팩토리 시스템 개발<br>
+  📍 Busan, Korea<br>
+  📫 <a href="mailto:cheong7394wol@gmail.com">cheong7394wol@gmail.com</a>
+</p>
 
 ## 기술 스택
 
