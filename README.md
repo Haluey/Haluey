@@ -11,14 +11,30 @@
 
 <h2>👤 Profile</h2>
 
-<p>
-  <strong>김민주</strong> <sub>MINJU KIM</sub><br><br>
+<h3>김민주</h3>
 
-  🎓 컴퓨터공학 전공<br>
-  🎯 IoT·임베디드 SW 및 스마트팩토리 시스템 개발<br>
-  📍 Busan, Korea<br>
-  📫 <a href="mailto:cheong7394wol@gmail.com">cheong7394wol@gmail.com</a>
-</p>
+<table>
+  <tr>
+    <td width="110"><strong>Major</strong></td>
+    <td>컴퓨터공학</td>
+  </tr>
+  <tr>
+    <td><strong>Focus</strong></td>
+    <td>IoT·임베디드 SW, 스마트팩토리 시스템</td>
+  </tr>
+  <tr>
+    <td><strong>Based in</strong></td>
+    <td>Busan, Korea</td>
+  </tr>
+  <tr>
+    <td><strong>Contact</strong></td>
+    <td>
+      <a href="mailto:mjkim26624@gmail.com">
+        mjkim26624@gmail.com
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 기술 스택
 
