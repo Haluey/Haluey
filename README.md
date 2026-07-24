@@ -11,30 +11,34 @@
 
 <h2>👤 Profile</h2>
 
-<h3>김민주</h3>
+<h2>김민주</h2>
 
-<table>
-  <tr>
-    <td width="110"><strong>Major</strong></td>
-    <td>컴퓨터공학</td>
-  </tr>
-  <tr>
-    <td><strong>Focus</strong></td>
-    <td>IoT·임베디드 SW, 스마트팩토리 시스템</td>
-  </tr>
-  <tr>
-    <td><strong>Based in</strong></td>
-    <td>Busan, Korea</td>
-  </tr>
-  <tr>
-    <td><strong>Contact</strong></td>
-    <td>
-      <a href="mailto:mjkim26624@gmail.com">
-        mjkim26624@gmail.com
-      </a>
-    </td>
-  </tr>
-</table>
+<div>
+  <p>
+    <strong style="display:inline-block; width:120px;">Major</strong>
+    컴퓨터공학
+  </p>
+  <hr width="410" align="left">
+
+  <p>
+    <strong style="display:inline-block; width:120px;">Focus</strong>
+    IoT·임베디드 SW, 스마트팩토리 시스템
+  </p>
+  <hr width="410" align="left">
+
+  <p>
+    <strong style="display:inline-block; width:120px;">Based in</strong>
+    Busan, Korea
+  </p>
+  <hr width="410" align="left">
+
+  <p>
+    <strong style="display:inline-block; width:120px;">Contact</strong>
+    <a href="mailto:mjkim26624@gmail.com">
+      mjkim26624@gmail.com
+    </a>
+  </p>
+</div>
 
 ## 기술 스택
 
