@@ -18,7 +18,7 @@
   <img src="./assets/line.svg"/>
 
   IoT·임베디드 SW 및 스마트팩토리 시스템 개발<br>
-  <hr width="480" align="left">
+  <sub>────────────────────────────────────────────</sub><br><br>
 
   Busan, Korea<br>
   <hr width="480" align="left">
