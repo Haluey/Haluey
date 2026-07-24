@@ -15,9 +15,7 @@
   <strong>김민주</strong> <sub>MINJU KIM</sub><br><br>
 
   컴퓨터공학 전공<br>
-  <svg xmlns="http://www.w3.org/2000/svg" width="410" height="1">
-    <rect width="100%" height="1" fill="#d0d7de"/>
-  </svg>
+  <img src="./assets/line.svg"/>
 
   IoT·임베디드 SW 및 스마트팩토리 시스템 개발<br>
   <hr width="480" align="left">
