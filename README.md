@@ -15,13 +15,16 @@
   <strong>김민주</strong> <sub>MINJU KIM</sub><br><br>
 
   컴퓨터공학 전공<br>
-  <img src="./assets/line.svg"/>
+  <img 
+    src="./assets/line.svg"
+    alt=""
+    style="pointer-events: none;"/>
 
   IoT·임베디드 SW 및 스마트팩토리 시스템 개발<br>
-  <sub>────────────────────────────────────────────</sub><br><br>
+  <img src="./assets/line.svg"/>
 
   Busan, Korea<br>
-  <hr width="480" align="left">
+  <img src="./assets/line.svg"/>
 
   <a href="mailto:cheong7394wol@gmail.com">
     cheong7394wol@gmail.com
