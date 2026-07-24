@@ -9,35 +9,23 @@
   />
 </div>
 
-## 👤 Profile
-
-<h3>김민주</h3>
+<h2>👤 Profile</h2>
 
 <div>
-  <p>
-    <strong style="display:inline-block; width:120px;">Major</strong>
-    컴퓨터공학
-  </p>
-  <hr width="410" align="left">
+  <strong>김민주</strong> <sub>MINJU KIM</sub><br><br>
 
-  <p>
-    <strong style="display:inline-block; width:120px;">Focus</strong>
-    IoT·임베디드 SW, 스마트팩토리 시스템
-  </p>
-  <hr width="410" align="left">
+  컴퓨터공학 전공<br>
+  <hr width="480" align="left">
 
-  <p>
-    <strong style="display:inline-block; width:120px;">Based in</strong>
-    Busan, Korea
-  </p>
-  <hr width="410" align="left">
+  IoT·임베디드 SW 및 스마트팩토리 시스템 개발<br>
+  <hr width="480" align="left">
 
-  <p>
-    <strong style="display:inline-block; width:120px;">Contact</strong>
-    <a href="mailto:mjkim26624@gmail.com">
-      mjkim26624@gmail.com
-    </a>
-  </p>
+  Busan, Korea<br>
+  <hr width="480" align="left">
+
+  <a href="mailto:cheong7394wol@gmail.com">
+    cheong7394wol@gmail.com
+  </a>
 </div>
 
 ##
