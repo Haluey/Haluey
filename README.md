@@ -16,11 +16,13 @@
   <img src="./assets/line.svg" alt="" height="8"><br>
   <strong>전공</strong>　컴퓨터공학<br>
   <img src="./assets/line.svg" alt="" height="8"><br>
-  <strong>관심 분야</strong>　IoT·임베디드 SW, AI 응용, 백엔드 시스템 개발<br>
+  <strong>관심 분야</strong>　IoT·임베디드 SW, 백엔드 시스템 및 AI 응용 개발<br>
   <img src="./assets/line.svg" alt="" height="8"><br>
   <strong>이메일</strong>　
   <a href="mailto:cheong7394wol@gmail.com">cheong7394wol@gmail.com</a>
 </div>
+
+<br>
 
 ## 기술 스택
 
