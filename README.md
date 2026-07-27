@@ -11,16 +11,15 @@
 
 <h2>👤 Profile</h2>
 
-<h3>김민주 (MINJU KIM)</h3>
-
 <div>
+  <strong>이름</strong>　김민주 (MINJU KIM)<br>
+  <img src="./assets/line.svg" alt="" height="8"><br>
   <strong>전공</strong>　컴퓨터공학<br>
   <img src="./assets/line.svg" alt="" height="8"><br>
-  <strong>관심 분야</strong>　IoT·임베디드 SW, 스마트팩토리 시스템<br>
+  <strong>관심 분야</strong>　IoT·임베디드 SW, AI 응용, 백엔드 시스템 개발<br>
   <img src="./assets/line.svg" alt="" height="8"><br>
-  <strong>활동 지역</strong>　Busan, Korea<br>
-  <img src="./assets/line.svg" alt="" height="8"><br>
-  <strong>연락처</strong>　<a href="mailto:cheong7394wol@gmail.com">cheong7394wol@gmail.com</a>
+  <strong>이메일</strong>　
+  <a href="mailto:cheong7394wol@gmail.com">cheong7394wol@gmail.com</a>
 </div>
 
 ## 기술 스택
