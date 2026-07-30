@@ -33,11 +33,11 @@
   <img src="https://icongr.am/devicon/cplusplus-original.svg?size=48"/>
   <img src="https://icongr.am/devicon/csharp-original.svg?size=48"/>
   <img src="https://icongr.am/devicon/python-original.svg?size=48"/>
-
-
-  <img width="48" height="48" src="./image/icons8-c-48.png" alt="c-programming"/>
-  <img width="48" height="48" src="./image/icons8-c++-48.png" alt="c-programming"/>
-  <img width="48" height="48" src="./image/icons8-c++-96.png" alt="c-programming"/>
+  <br>
+  <img width="48" height="48" src="./assets/icons/icons8-c-96.png" alt="c-programming"/>
+  <img width="48" height="48" src="./assets/icons/icons8-c++-96.png" alt="c-programming"/>
+  <img width="48" height="48" src="./assets/icons/icons8-csharp-96.png" alt="c-programming"/>
+  <img width="48" height="48" src="./assets/icons/icons8-python-96.png" alt="c-programming"/>
   <br>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo"/>
