@@ -29,26 +29,13 @@
 <h3>Languages</h3>
 
 <p>
-  <img src="https://icongr.am/devicon/c-original.svg?size=48"/>
-  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=48"/>
-  <img src="https://icongr.am/devicon/csharp-original.svg?size=48"/>
-  <img src="https://icongr.am/devicon/python-original.svg?size=48"/>
-  <br>
-  <img width="48" height="48" src="./assets/icons/icons8-c-96.png" alt="c-programming"/>
-  <img width="48" height="48" src="./assets/icons/icons8-c++-96.png" alt="c-programming"/>
-  <img width="48" height="48" src="./assets/icons/icons8-csharp-96.png" alt="c-programming"/>
-  <img width="48" height="48" src="./assets/icons/icons8-python-96.png" alt="c-programming"/>
-  <br>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img width="48" height="48" src="./assets/icons/c.png" alt="C"/>
+  <img width="48" height="48" src="./assets/icons/cpp.png" alt="C++"/>
+  <img width="48" height="48" src="./assets/icons/csharp.png" alt="C#"/>
+  <img width="48" height="48" src="./assets/icons/python.png" alt="Python"/>
+  <img width="48" height="48" src="./assets/icons/html.png" alt="HTML5"/>
+  <img width="48" height="48" src="./assets/icons/css.png" alt="CSS3"/>
+  <img width="48" height="48" src="./assets/icons/javascript.png" alt="JavaScript"/>
 </p>
 
 <h3>Embedded & IoT</h3>
@@ -94,6 +81,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver">
   <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Workbench">
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
 </p>
 
 <h2>📋 Core Skills</h2>
@@ -110,35 +98,7 @@
   <strong>Database</strong>　MySQL 테이블 설계 및 CRUD·JOIN 기반 데이터 처리
 </div>
 
-## 기술 스택
-
-### 사용언어
-
-<p align="left">
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming" title="c-programming"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo" title="c++"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo" title="c#"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
-</p>
-
-### 사용툴
-
-<p align="left">
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio.png" alt="visual-studio" title="Visual Studio"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019" title="Visual Studio Code"/>
-</p>
-
-### 기술명세
-
-| 기술분류 | 보유기술 |
-| --- | --- |
-| Language | [C]<br>구조적프로그램<br>[C++]<br>- 객체지향프로그래밍<br>- STL
-| OS | [Windows]<br>- Docker <br>[Linux]<br>- Ubuntu 22.4.1<br>- Raspbian
+<br>
 
 ### 프로젝트 리스트
 
