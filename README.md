@@ -100,9 +100,65 @@
 
 <br>
 
-### 프로젝트 리스트
+<h2>📂 Projects</h2>
 
-- [WPF] [OpenAPI CCTV 모니터링앱](https://github.com/Haluey/iot-dotnet-2026/blob/main/TOYPROJECT1.md)
+<div>
+  <h3>📦 상품 관리 시스템</h3>
+
+  <p>
+    ASP.NET Core Web API와 MySQL을 기반으로 상품 데이터를 관리하고,
+    WPF 관리자 화면에서 조회·등록·수정·삭제할 수 있도록 구현한 프로젝트입니다.
+  </p>
+
+  <p>
+    <strong>Tech</strong>　C# · ASP.NET Core Web API · WPF · MySQL · REST API · Docker
+  </p>
+
+  <p>
+    <a href="https://github.com/Haluey/iot-dotnet-2026/blob/main/README4.md">프로젝트 상세 보기</a>
+  </p>
+
+  <img src="./assets/line.svg" alt="" height="10"><br>
+
+  <h3>🚦 도로 CCTV 정보 모니터링 시스템</h3>
+
+  <p>
+    공공 OpenAPI에서 도로 CCTV 데이터를 수집하고,
+    영상·지도 위치·상세정보를 WPF 화면에서 통합 조회할 수 있도록 구현한 프로젝트입니다.
+  </p>
+
+  <p>
+    <strong>Tech</strong>　C# · ASP.NET Core Web API · WPF · REST API · OpenAPI
+  </p>
+
+  <p>
+    <a href="https://github.com/Haluey/iot-dotnet-2026/blob/main/TOYPROJECT1.md">
+      프로젝트 상세 보기
+    </a>
+  </p>
+
+  <img src="./assets/line.svg" alt="" height="10"><br>
+
+  <h3>🧊 냉장고 식품 관리 애플리케이션</h3>
+
+  <p>
+    QR·바코드와 OCR을 활용해 식품을 등록하고,
+    유통기한 관리와 식품 사전구매 추천 기능을 제공하는 모바일 애플리케이션입니다.
+  </p>
+
+  <p>
+    <strong>Tech</strong>　Flutter · Dart · Firebase · QR/바코드 인식 · OCR · Google 검색 API
+  </p>
+
+  <p>
+    <strong>Award</strong>　ICT융합대학 학장상 대상
+  </p>
+
+  <p>
+    <a href="">프로젝트 상세 보기</a>
+  </p>
+</div>
+
 
 ### Contribution
 
