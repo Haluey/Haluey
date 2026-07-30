@@ -35,7 +35,7 @@
   <img src="https://icongr.am/devicon/python-original.svg?size=48"/>
 
 
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+  <img width="48" height="48" src="./image/icons8-c-48.png" alt="c-programming"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
