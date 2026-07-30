@@ -118,7 +118,7 @@
     <a href="https://github.com/Haluey/iot-dotnet-2026/blob/main/README4.md">프로젝트 상세 보기</a>
   </p>
 
-  <img src="./assets/line.svg" alt="" height="10"><br>
+  <img src="./assets/line-long.svg" alt="" height="10"><br>
 
   <h3>🚦 도로 CCTV 정보 모니터링 시스템</h3>
 
@@ -137,7 +137,7 @@
     </a>
   </p>
 
-  <img src="./assets/line.svg" alt="" height="10"><br>
+  <img src="./assets/line-long.svg" alt="" height="10"><br>
 
   <h3>🧊 냉장고 식품 관리 애플리케이션</h3>
 
@@ -159,7 +159,8 @@
   </p>
 </div>
 
+<br>
 
-### Contribution
+<h2>Contribution</h2>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />

@@ -1,0 +1,27 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="860"
+  height="10"
+  viewBox="0 0 860 10"
+>
+  <style>
+    .line {
+      stroke: #D4E0EF;
+      stroke-width: 0.7;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .line {
+        stroke: #40516A;
+      }
+    }
+  </style>
+
+  <line
+    x1="0"
+    y1="2"
+    x2="860"
+    y2="2"
+    class="line"
+  />
+</svg>
