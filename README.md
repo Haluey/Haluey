@@ -155,7 +155,7 @@
   </p>
 
   <p>
-    <a href="">프로젝트 상세 보기</a>
+    <a href="https://github.com/Haluey/refrigerator-food-management-app">프로젝트 상세 보기</a>
   </p>
 </div>
 
