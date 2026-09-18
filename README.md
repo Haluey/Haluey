@@ -87,7 +87,7 @@
 <h2>📋 Core Skills</h2>
 
 <div>
-  <strong>C / C++</strong>　객체지향 설계, STL 자료구조 활용 및 물류 분류 시뮬레이션 구현<br>
+  <strong>C / C++</strong>　MFC 기반 TCP/IP 통신, 수신 스레드 및 Windows 장비 모니터링 구현<br>
   <img src="./assets/line.svg" alt="" height="10"><br>
   <strong>C# / .NET</strong>　WPF·WinForms 애플리케이션 및 ASP.NET Core REST API 개발<br>
   <img src="./assets/line.svg" alt="" height="10"><br>
@@ -103,41 +103,39 @@
 <h2>📂 Projects</h2>
 
 <div>
-  <h3>📦 상품 관리 시스템</h3>
+  <h3>📡 C++/MFC 기반 신호 모니터링 프로그램</h3>
 
   <p>
-    ASP.NET Core Web API와 MySQL을 기반으로 상품 데이터를 관리하고,
-    WPF 관리자 화면에서 조회·등록·수정·삭제할 수 있도록 구현한 프로젝트입니다.
+    TCP/IP로 가상 장비 데이터를 수신하고,
+    MFC 화면에서 신호 상태·그래프·이벤트 로그를 모니터링할 수 있도록 구현한 Windows 데스크톱 프로젝트입니다.
   </p>
 
   <p>
-    <strong>Tech</strong>　C# · ASP.NET Core Web API · WPF · MySQL · REST API · Docker
+    <strong>Tech</strong>　C++ · MFC · Winsock2 · TCP/IP · Thread · Windows Message · CSV
   </p>
 
   <p>
-    <a href="https://github.com/Haluey/iot-dotnet-2026/blob/main/README4.md">프로젝트 상세 보기</a>
+    <a href="https://github.com/Haluey/equipment-signal-monitoring-system">프로젝트 상세 보기</a>
   </p>
 
-  <img src="./assets/line-long.svg" alt="" height="10"><br>
+<img src="./assets/line-long.svg" alt="" height="10"><br>
 
-  <h3>🚦 도로 CCTV 정보 모니터링 시스템</h3>
-
-  <p>
-    공공 OpenAPI에서 도로 CCTV 데이터를 수집하고,
-    영상·지도 위치·상세정보를 WPF 화면에서 통합 조회할 수 있도록 구현한 프로젝트입니다.
-  </p>
+  <h3>🏭 스마트팩토리 컨베이어 공정관리 시스템</h3>
 
   <p>
-    <strong>Tech</strong>　C# · ASP.NET Core Web API · WPF · REST API · OpenAPI
+    ESP32-CAM과 YOLO를 활용해 컨베이어 제품을 인식하고,
+    Raspberry Pi·Arduino·MQTT·Unity를 연계하여 제품 분류와 공정 모니터링을 구현한 프로젝트입니다.
   </p>
 
   <p>
-    <a href="https://github.com/Haluey/iot-dotnet-2026/blob/main/TOYPROJECT1.md">
-      프로젝트 상세 보기
-    </a>
+    <strong>Tech</strong>　Python · OpenCV · YOLO · Raspberry Pi · Arduino · MQTT · Serial · Unity · C#
   </p>
 
-  <img src="./assets/line-long.svg" alt="" height="10"><br>
+  <p>
+    <a href="https://github.com/Haluey/smart-factory-conveyor-system">프로젝트 상세 보기</a>
+  </p>
+
+<img src="./assets/line-long.svg" alt="" height="10"><br>
 
   <h3>🧊 냉장고 식품 관리 애플리케이션</h3>
 
@@ -158,6 +156,7 @@
     <a href="https://github.com/Haluey/refrigerator-food-management-app">프로젝트 상세 보기</a>
   </p>
 </div>
+
 
 <br>
 
