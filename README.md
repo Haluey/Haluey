@@ -103,23 +103,27 @@
 <h2>📂 Projects</h2>
 
 <div>
-  <h3>📡 C++/MFC 기반 신호 모니터링 프로그램</h3>
+  <h3>🏭 IoT 기반 자동 생산·모니터링 시스템</h3>
 
   <p>
-    TCP/IP로 가상 장비 데이터를 수신하고,
-    MFC 화면에서 신호 상태·그래프·이벤트 로그를 모니터링할 수 있도록 구현한 Windows 데스크톱 프로젝트입니다.
+    센서·카메라·YOLO 기반 제품 분류 장치와 Backend·Database·작업자 UI·관리자 Web을 연계하여,
+    제품 감지부터 자동 분류, 생산량 집계, 장비 상태 및 알림 관리까지 구현한 팀 프로젝트입니다.
   </p>
 
   <p>
-    <strong>Tech</strong>　C++ · MFC · Winsock2 · TCP/IP · Thread · Windows Message · CSV
+    <strong>Role</strong>　Backend · Database
   </p>
 
   <p>
-    <a href="https://github.com/Haluey/equipment-signal-monitoring-system">프로젝트 상세 보기</a>
+    <strong>Tech</strong>　C# · ASP.NET Core · MySQL · EF Core · MQTT · REST API · JWT · BCrypt
+  </p>
+
+  <p>
+    <a href="https://github.com/iot-final-2026/iot-project-2026">프로젝트 상세 보기</a>
   </p>
 
 <img src="./assets/line-long.svg" alt="" height="10"><br>
-
+  
   <h3>🏭 스마트팩토리 컨베이어 공정관리 시스템</h3>
 
   <p>
@@ -133,6 +137,23 @@
 
   <p>
     <a href="https://github.com/Haluey/smart-factory-conveyor-system">프로젝트 상세 보기</a>
+  </p>
+
+<img src="./assets/line-long.svg" alt="" height="10"><br>
+
+<h3>📡 C++/MFC 기반 신호 모니터링 프로그램</h3>
+
+  <p>
+    TCP/IP로 가상 장비 데이터를 수신하고,
+    MFC 화면에서 신호 상태·그래프·이벤트 로그를 모니터링할 수 있도록 구현한 Windows 데스크톱 프로젝트입니다.
+  </p>
+
+  <p>
+    <strong>Tech</strong>　C++ · MFC · Winsock2 · TCP/IP · Thread · Windows Message · CSV
+  </p>
+
+  <p>
+    <a href="https://github.com/Haluey/equipment-signal-monitoring-system">프로젝트 상세 보기</a>
   </p>
 
 <img src="./assets/line-long.svg" alt="" height="10"><br>
