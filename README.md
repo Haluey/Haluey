@@ -141,6 +141,23 @@
 
 <img src="./assets/line-long.svg" alt="" height="10"><br>
 
+<h3>🏭 생산 작업지시·실적 관리 프로그램</h3>
+
+  <p>
+    C#·WPF·DevExpress와 SQL Server를 연계하여 제품과 작업지시, 양품·불량 실적을 관리하고,
+    목표 대비 생산 현황을 표와 차트로 확인할 수 있도록 구현한 Windows 개인 프로젝트입니다.
+  </p>
+
+  <p>
+    <strong>Tech</strong>　C# · WPF · DevExpress · SQL Server · Microsoft.Data.SqlClient
+  </p>
+
+  <p>
+    <a href="https://github.com/Haluey/production-management-system">프로젝트 상세 보기</a>
+  </p>
+
+<img src="./assets/line-long.svg" alt="" height="10"><br>
+
 <h3>📡 C++/MFC 기반 신호 모니터링 프로그램</h3>
 
   <p>
