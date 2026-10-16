@@ -122,7 +122,7 @@
     <a href="https://github.com/iot-final-2026/iot-project-2026">프로젝트 상세 보기</a>
   </p>
 
-<img src="./assets/line-long.svg" alt="" height="10"><br>
+  <img src="./assets/line-long.svg" alt="" height="10"><br>
   
   <h3>🏭 스마트팩토리 컨베이어 공정관리 시스템</h3>
 
@@ -139,9 +139,26 @@
     <a href="https://github.com/Haluey/smart-factory-conveyor-system">프로젝트 상세 보기</a>
   </p>
 
-<img src="./assets/line-long.svg" alt="" height="10"><br>
+  <img src="./assets/line-long.svg" alt="" height="10"><br>
 
-<h3>🏭 생산 작업지시·실적 관리 프로그램</h3>
+  <h3>📊 반도체 공정 불량 예측</h3>
+
+  <p>
+    공개 SECOM 데이터를 활용하여 정상·불량 분류 모델을 학습·평가하고,
+    Streamlit 화면에서 두 모델의 불량 탐지·정상 오탐 차이와 기록별 예측 결과를 비교하도록 구현한 개인 프로젝트입니다.
+  </p>
+
+  <p>
+    <strong>Tech</strong>　Python · pandas · scikit-learn · Matplotlib · Streamlit
+  </p>
+
+  <p>
+    <a href="https://github.com/Haluey/manufacturing-defect-prediction">프로젝트 상세 보기</a>
+  </p>
+
+  <img src="./assets/line-long.svg" alt="" height="10"><br>
+
+  <h3>🏭 생산 작업지시·실적 관리 프로그램</h3>
 
   <p>
     C#·WPF·DevExpress와 SQL Server를 연계하여 제품과 작업지시, 양품·불량 실적을 관리하고,
@@ -156,9 +173,9 @@
     <a href="https://github.com/Haluey/production-management-system">프로젝트 상세 보기</a>
   </p>
 
-<img src="./assets/line-long.svg" alt="" height="10"><br>
+  <img src="./assets/line-long.svg" alt="" height="10"><br>
 
-<h3>📡 C++/MFC 기반 신호 모니터링 프로그램</h3>
+  <h3>📡 C++/MFC 기반 신호 모니터링 프로그램</h3>
 
   <p>
     TCP/IP로 가상 장비 데이터를 수신하고,
@@ -173,7 +190,7 @@
     <a href="https://github.com/Haluey/equipment-signal-monitoring-system">프로젝트 상세 보기</a>
   </p>
 
-<img src="./assets/line-long.svg" alt="" height="10"><br>
+  <img src="./assets/line-long.svg" alt="" height="10"><br>
 
   <h3>🧊 냉장고 식품 관리 애플리케이션</h3>
 
