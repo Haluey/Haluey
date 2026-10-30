@@ -103,7 +103,7 @@
 <h2>📂 Projects</h2>
 
 <div>
-  <h3>🏭 IoT 기반 자동 생산·모니터링 시스템</h3>
+  <h3>🏭 초콜릿·사탕 자동 분류 및 생산 모니터링 시스템</h3>
 
   <p>
     센서·카메라·YOLO 기반 제품 분류 장치와 Backend·Database·작업자 UI·관리자 Web을 연계하여,
@@ -124,7 +124,7 @@
 
   <img src="./assets/line-long.svg" alt="" height="10"><br>
   
-  <h3>🏭 스마트팩토리 컨베이어 공정관리 시스템</h3>
+  <h3>🏭 컨베이어 제품 인식·분류 및 공정 모니터링 시스템</h3>
 
   <p>
     ESP32-CAM과 YOLO를 활용해 컨베이어 제품을 인식하고,
@@ -188,6 +188,23 @@
 
   <p>
     <a href="https://github.com/Haluey/equipment-signal-monitoring-system">프로젝트 상세 보기</a>
+  </p>
+
+  <img src="./assets/line-long.svg" alt="" height="10"><br>
+
+  <h3>📹 교통 CCTV 모니터링 시스템</h3>
+
+  <p>
+    C#·WPF와 ASP.NET Core 브릿지 API를 연동하여 국가교통정보센터의 CCTV 정보를 조회하고,
+    선택한 CCTV의 영상·지도 위치·상세정보를 한 화면에서 확인할 수 있도록 구현한 Windows 프로젝트입니다.
+  </p>
+
+  <p>
+    <strong>Tech</strong>　C# · WPF · ASP.NET Core · LibVLCSharp · WebView2 · Leaflet
+  </p>
+
+  <p>
+    <a href="https://github.com/Haluey/cctv-monitor">프로젝트 상세 보기</a>
   </p>
 
   <img src="./assets/line-long.svg" alt="" height="10"><br>
