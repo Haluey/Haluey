@@ -209,6 +209,23 @@
 
   <img src="./assets/line-long.svg" alt="" height="10"><br>
 
+  <h3>📚 ASP.NET Core 기반 도서 대여 관리 시스템</h3>
+
+  <p>
+    ASP.NET Core Web API와 MySQL을 연동하여 도서·회원 관리와 도서 대여·반납을 처리하고,
+    웹 관리 화면에서 대여 현황과 이력을 조회·검색할 수 있도록 구현한 프로젝트입니다.
+  </p>
+
+  <p>
+    <strong>Tech</strong>　C# · ASP.NET Core · MySQL · MySqlConnector · HTML · CSS · JavaScript · REST API
+  </p>
+
+  <p>
+    <a href="https://github.com/Haluey/book-rental-management-system">프로젝트 상세 보기</a>
+  </p>
+
+  <img src="./assets/line-long.svg" alt="" height="10"><br>
+
   <h3>🧊 냉장고 식품 관리 애플리케이션</h3>
 
   <p>
